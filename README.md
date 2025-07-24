@@ -26,4 +26,4 @@
 ![input](https://drive.google.com/uc?export=view&id=184hdQgh-ujwV1W7WJdAuZUgvSjH6V4om)
 ![output](https://drive.google.com/uc?export=view&id=1ABLiBfD3_snhHHb2-ftdcdjMTdoZKwPH)
 ## Отдельная благодарность
-Огромная благодарность автору приложения [Cross stitch Paradise](https://cs-paradise.com/ru/) за помощь с парсингом xml-файла
+Огромная благодарность автору приложения [Cross stitch Paradise](https://cs-paradise.com/ru/) за помощь с парсингом xsd-файла
